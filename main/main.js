@@ -1,6 +1,4 @@
 // Write your cade below:
-module.exports = function main() {
-  function caclRemaindar(a,b) {
+module.exports = function main(a, b) {
     return a%b;
-  };
 };
